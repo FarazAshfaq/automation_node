@@ -1,0 +1,27 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarazAshfaq/automation_node_js.git"
+  },
+  "keywords": [
+    "automation",
+    "node",
+    "js"
+  ],
+  "author": "Muhammad Faraz Ashfaq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FarazAshfaq/automation_node_js/issues"
+  },
+  "homepage": "https://github.com/FarazAshfaq/automation_node_js#readme",
+  "dependencies": {
+    "puppeteer": "^10.1.0"
+  }
+}
